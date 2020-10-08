@@ -4,5 +4,5 @@ Digit recognizer trained on MNIST dataset using Tensorflow Keras framework.
 Link for Kaggle notebook<br>
 https://www.kaggle.com/mohdsadiq058/digit-recognizer
 <br>
-Training Accuracy : 99.79%
+Training Accuracy : 99.79%<br>
 Testing accuracy on Kaggle : 99.23%
